@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Xcode user-specific files
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# Swift Package Manager build files
+.build/
+
+# Firebase config (contains your project's API key)
+GoogleService-Info.plist
